@@ -1,0 +1,19 @@
+{
+  "wheel_id": 149,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-150",
+  "project": "garage-door-repairs-brisbane-ee57cffff6c077abd4b118d0c360980",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-001",
+  "node_role": "buffer",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane",
+  "intended_url": "https://garage-door-repairs-brisbane-ee57cffff6c077abd4b118d0c360980.surge.sh/",
+  "writeback_nonce": "bca945f5ee69a2e8",
+  "links": [
+    {
+      "target_url": "https://garage-door-repairs-brisbane-guide.vercel.app/",
+      "anchor": "garage door repairs brisbane",
+      "rel": "follow"
+    }
+  ]
+}

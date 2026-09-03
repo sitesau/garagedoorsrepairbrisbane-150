@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://garage-door-repairs-brisbane-ee57cffff6c077abd4b118d0c360980.surge.sh/sitemap.xml
+Sitemap: https://aumedia.neocities.org/garage-door-repairs-brisbane-ee57cffff6c077abd4b118d0c360980/sitemap.xml
